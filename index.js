@@ -32,6 +32,6 @@ bot.on('message', (message) => {
     });
            
 
-bot.login('MzQ1NTUyNjM4MTUyMjc4MDM5.DHBm-A.hj4XTFZQQVj_j0zJRiA3FUhUr-U');
+bot.login('Your Bot Token');
 
 
