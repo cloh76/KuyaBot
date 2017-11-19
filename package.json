@@ -1,0 +1,19 @@
+{
+  "name": "kuyabot",
+  "version": "1.0.0",
+  "description": "SteemPH Discord Bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "discord.js-commando": "^0.9.0",
+    "jsonfile": "^4.0.0",
+    "moment": "^2.19.2",
+    "node-fetch": "^1.7.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
