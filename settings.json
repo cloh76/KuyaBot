@@ -1,0 +1,6 @@
+{
+    "yt_api_key": "YOUTUBE_API_KEY",
+    "discord_token": "DISCORD_TOKEN",
+    "bot_controller": "",
+    "prefix": "-"
+}
