@@ -127,7 +127,7 @@ bot.on('message', (message) => {
     });
            
 
-
+// This portion of code is taken From @wehmoen's SteemDC Bot
 
 client.Dispatcher.on("MESSAGE_CREATE", function (e) {
         content = e.message.content;
